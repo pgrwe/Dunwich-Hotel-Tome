@@ -1,0 +1,180 @@
+{
+  "main": {
+    "id": "aec74bab973114ac",
+    "type": "split",
+    "children": [
+      {
+        "id": "cff294678797096b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b6fd5de66d60f3ae",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Overview.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0f23cba17f368232",
+    "type": "split",
+    "children": [
+      {
+        "id": "db7492902f203dfd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0d7ad27cf65802d7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "526615eb10ad4411",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2f0a1cb64685c0ff",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "7724295fea0dec50",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "edbd282eab23ae72",
+    "type": "split",
+    "children": [
+      {
+        "id": "2148b60b5e3aa715",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "852cb48afd0a542d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Overview.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e3532641c43c6dd4",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Overview.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d4b7f04e7d7c37bc",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "5ba382a8781d0bce",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Overview.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "publish:Publish changes...": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "b6fd5de66d60f3ae",
+  "lastOpenFiles": [
+    "Images/Pasted image 20230510234000.png",
+    "Overview.md",
+    "Combat Mode (After-Hours).md",
+    "Gameplay Details.md",
+    "Management Mode.md",
+    "Images/Pasted image 20230510233804.png",
+    "Images/plant.png",
+    "Images/plant.png.crdownload",
+    "Images/Couch.png",
+    "Images/Couch.png.crdownload",
+    "Images/counter.png",
+    "Images/counter.png.crdownload",
+    "Untitled.md",
+    "Images/Untitled 2.md",
+    "Images/Untitled.md",
+    "Images/Untitled 1.md",
+    "Images/hotelchart.png",
+    "Untitled",
+    "Images"
+  ]
+}

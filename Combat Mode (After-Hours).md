@@ -1,0 +1,20 @@
+- Death in Combat Made simply wakes the player character up
+    - Nothing is lost with a death in combat mode
+- Fight off the horrors of the night
+- Same layout, with added oddities/differences → Exploring the hotel
+- Human rooms → humans are just sleeping
+    - Creatures might have found their way inside
+- PN’s rooms would entirely change based on their character
+    - Bigger on the inside
+    - Norma PN’s have one room → randomized factors
+- SPN’s have a dungeon/extended rooms
+    - Main story + involves many characters
+    - Cornerstone characters + filters (skill check)
+- Will system
+    - Will increases over the course of the game
+    - Increases the time the player can stay in after-hours
+        - At a certain point player can stay in combat mode long enough to interact more with the owner
+- REAL COMBAT HOURS - Environmental Combat (Into the Breach)
+    - Weak lil guy - interact/use the environment to your advantage to deal with the PN’s
+    - Random encounters introduce an environmental hazard/obstacles
+        - SPN dungeons combine all hazards previously seen for that area/theme
