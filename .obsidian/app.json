@@ -1,7 +1,14 @@
 {
   "vimMode": true,
-  "promptDelete": false,
   "newFileLocation": "current",
+  "showInlineTitle": true,
+  "showLineNumber": true,
+  "spellcheck": true,
+  "spellcheckLanguages": [
+    "en-US",
+    "en-GB"
+  ],
+  "promptDelete": false,
   "alwaysUpdateLinks": true,
   "attachmentFolderPath": "Images"
 }

@@ -1,4 +1,10 @@
 {
   "accentColor": "",
-  "cssTheme": "Material Gruvbox"
+  "cssTheme": "Material Gruvbox",
+  "baseFontSizeAction": false,
+  "interfaceFontFamily": "iA Writer Mono S",
+  "baseFontSize": 16,
+  "monospaceFontFamily": "",
+  "textFontFamily": "",
+  "theme": "obsidian"
 }
